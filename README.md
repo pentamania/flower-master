@@ -1,5 +1,5 @@
-# Flower Master
-(http://pentamania.github.io/flower-master)[http://pentamania.github.io/flower-master]  
+# フラワーマスター
+[https://pentamania.github.io/flower-master](https://pentamania.github.io/flower-master)  
 
-東方二次創作。  
+以前作った東方二次創作なインタラクティブアート。  
 タップすると花が出ます。
